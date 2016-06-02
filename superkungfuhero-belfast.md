@@ -3,7 +3,7 @@
 - City Hall
 
 # Restaurants
--Red Panda
+- Red Panda
 
 # Local Activities
 - City bus tour
