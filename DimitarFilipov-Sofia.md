@@ -7,4 +7,4 @@
 - The Windmill
 
 # Local Activities
-- MTB @ Vitosha Mountain
+- MTB @ Vitosha Mountain 
