@@ -1,4 +1,4 @@
-# Attrachtions
+# Attractions
 Discovery Museum
 
 # Restaurants
